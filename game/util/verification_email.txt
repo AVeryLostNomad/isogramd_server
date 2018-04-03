@@ -1,0 +1,5 @@
+Hey! Welcome to Isogram'd. There's an exciting world of letter-guessing ahead of you, but first you'll need to verify your account!
+
+Please click on this link to verify your account: %url%
+
+Good luck!

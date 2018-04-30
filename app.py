@@ -1,1 +1,1 @@
-import IsogramServer
+import game.IsogramServer
